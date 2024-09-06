@@ -1,0 +1,13 @@
+<?php
+$host="localhost";
+$user="root";
+$pass="12345";
+$db="center_tf";
+$conn=mysqli_connect($host,$user,$pass);
+if($conn)
+{
+mysqli_select_db($conn,$db);
+}
+//#h5$8IQ7~?o(
+//DT%i3kPB8#Un
+?>

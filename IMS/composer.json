@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sarav/laravel-multiauth": "^0.0.7"
+    }
+}
