@@ -1,1 +1,2 @@
 # IMS
+# Institute Management System
